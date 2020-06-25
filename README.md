@@ -11,3 +11,4 @@ In part II (Weather_search.ipynb) I read in the WeatherPy_database.csv file and 
 ## Part three
 In part three (Vacation_itinerary.ipynb) I imported the csv file WeatherPy_vaction.csv, created a template for the hotel marker information and linked the locations from the hotel data to the map using the lat/long pairs.  using the Google maps api, I created a map showing markers with the hotels
 
+Images/WeatherPy_vacation_map.png
